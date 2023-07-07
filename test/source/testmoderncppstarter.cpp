@@ -1,9 +1,9 @@
+#include "testmoderncppstarter/testmoderncppstarter.h"
+
 #include <doctest/doctest.h>
 #include <testmoderncppstarter/version.h>
 
 #include <string>
-
-#include "testmoderncppstarter/testmoderncppstarter.h"
 
 TEST_CASE("TestModernCppStarter") {
   using namespace testmoderncppstarter;
